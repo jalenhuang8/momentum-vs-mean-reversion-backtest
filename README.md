@@ -5,8 +5,4 @@ Strategies I compared:
 2. Mean Reversion: Buying worst stocks by 3-month return.
 In this project, I bought the 2 top/worst stocks for each strategy.
 
-Libraries:
-- pandas
--numpy
--yfinance
--matplotlib
+Libraries: pandas, numpy, yfinance, matplotlib
